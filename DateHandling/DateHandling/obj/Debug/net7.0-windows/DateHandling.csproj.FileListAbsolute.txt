@@ -1,0 +1,16 @@
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.exe
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.deps.json
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.runtimeconfig.json
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.dll
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\bin\Debug\net7.0-windows\DateHandling.pdb
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.Form1.resources
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.csproj.GenerateResource.cache
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.AssemblyInfo.cs
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.dll
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\refint\DateHandling.dll
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.pdb
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\DateHandling.genruntimeconfig.cache
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw9-1\DateHandling\DateHandling\obj\Debug\net7.0-windows\ref\DateHandling.dll
